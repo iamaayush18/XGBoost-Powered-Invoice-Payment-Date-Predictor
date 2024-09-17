@@ -1,6 +1,3 @@
-Here's the updated `README.md` with the new heading **XGBoost-Powered Invoice Payment Date Predictor**:
-
----
 
 # XGBoost-Powered Invoice Payment Date Predictor
 
