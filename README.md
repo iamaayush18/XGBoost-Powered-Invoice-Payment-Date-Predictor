@@ -1,6 +1,7 @@
-ML-Based Payment Date Prediction Model
+XGBoost-Powered Invoice Payment Date Predictor
 
 Overview
+
 This project focuses on developing a machine learning model to predict the due payment dates of pending invoices for various companies. The goal is to leverage historical data and machine learning techniques to improve the prediction of when invoices will be paid. This can be crucial for managing cash flow, financial planning, and improving business operations.
 
 Problem Statement
